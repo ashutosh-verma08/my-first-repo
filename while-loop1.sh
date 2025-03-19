@@ -1,7 +1,7 @@
 #!/bin/bash
 #This is created on 3/11/2025 by astverma
 counter=1
-while [ $counter -le 10 ]
+while [ $counter -le 20 ]
 do
         echo $counter
         ((counter++))
